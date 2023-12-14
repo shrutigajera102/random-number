@@ -1,0 +1,25 @@
+div{
+    background-color: rgb(236, 244, 246);
+    width: 50%;
+    height: 30vh;
+    text-align: center;
+    margin: 100px;
+    margin-left: 25%;
+    border-radius: 5px;
+    text-align: center;
+    
+}
+h1 {
+    padding-top: 30px;
+    padding-bottom: 10px;
+}
+.bt {
+    width: 35%;
+    height: 5vh;
+    border-radius: 5px;
+    color: rgb(3, 67, 69);
+    background-color: white;
+}
+body{
+    background-image:url(Hz7w8E.webp);
+}
